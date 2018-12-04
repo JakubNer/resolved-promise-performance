@@ -1,0 +1,11 @@
+{
+  "name": "resolved-promise-performance",
+  "version": "1.0.0",
+  "description": "Quick Benchmark to see performance of already resolved promise",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "benchmark": "2.1.4"
+  }
+}
